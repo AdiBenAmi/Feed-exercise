@@ -1,0 +1,121 @@
+body{
+    margin: 30px 15px;
+}
+
+h1 {
+    font-size: 24px;
+    color:black;
+    margin-bottom: 30px;
+}
+
+.main {
+    margin-bottom: 18px;
+}
+
+
+.Ethan{
+    display: flex;
+    padding: 0px;
+    
+}
+
+.Ethan img{
+    display: flex;
+    border-radius: 50%;
+    block-size: 40px;
+    align-items: center;
+}
+
+.Ethan p{
+    display: flex;
+    padding-left: 15px;
+    padding-top: 10px  ;
+}
+
+.blue {
+    color: lightsteelblue;
+}
+
+.time{
+    font-size: small;
+    color: lightgrey;
+    padding-top: 5px;
+    padding-left: 7px;
+}
+
+svg{
+    color: lightslategray;
+    display: flex;
+    align-self: center;
+    
+
+}
+.likes{
+    color: lightslategray;
+    display: flex;
+    margin-left: 54px;
+    margin-top: -10px;
+    font-size: small;
+}
+
+.likes p{
+    padding-left: 5px;
+    margin-bottom: 0px;
+    display: flex;
+}
+
+.gal {
+    font-weight: bold;
+}
+
+.blankimg {
+    width: 100%;
+    margin-left: 54px; 
+    margin-bottom: 20px;
+
+
+}
+
+
+.blankimg img {
+    height: 15%;
+    width: 15%;
+}
+
+.likes2 {
+    margin-bottom: 18px;
+    margin-left: 54px;
+    flex-direction: row;
+
+}
+
+.comment {
+    margin-left: 0px;
+
+}
+
+.lastlike{
+    display: flex;
+    flex-direction: row;
+    color: lightslategray;
+    margin-left: 5px;
+    font-size: small;
+    text-align: left;
+    margin-bottom: 0rem;
+}
+
+.lastdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+
+}
+
+.lastdiv svg{
+    display: flex;
+    align-self: flex-start;
+    flex-direction: column;
+    align-self: center;
+}
+
+}
